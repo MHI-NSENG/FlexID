@@ -1,0 +1,30 @@
+﻿Oesophagus Oesophagus Oesophagus-F Oesophagus-S
+Stomach St-con St-stem St-wall
+SI SI-con SI-conRe SI-stem SI-wall
+RC RC-con RC-stem RC-wall
+LC LC-con LC-stem LC-wall
+RS RS-con RS-stem RS-wall
+ET1 ET1-F ET1-S ET1-bas
+ET2 ET2-F ET2-S ETsec-F ETsec-S ET2-bas
+Lung BB-F BB-S BB-B BBseq-F BBseq-S BBseq-B bb-F bb-S bb-B bbseq-F bbseq-S bbseq-B ALV-F ALV-S ALV-B INT-F INT-S INT-B Bronch-Bas Bronch-sec Bchiol-sec AI Lung-Tis
+Blood Blood Blood0 Blood1 Blood2 Plasma RBC OtherPlasma PlasmaTrans
+Red-marrow Red-marrow R-marrow
+Liver Liver Liver0 Liver1 Liver2 Liver3 Liver1(Hepato) Liver2(RE)
+Kidneys Kidneys Kidneys1 Kidneys2 Other-Kidneys
+Ureters Ureters Renal-tubules
+Bone C-bone-S C-bone-V C-marrow Exch-C-bone-V Noch-C-bone-V T-bone-S T-bone-V T-marrow Exch-T-bone-V Noch-T-bone-V Endost-BS
+Brain Brain
+Eye-lens Eye-lens
+GB GB-wall
+Heart Ht-wall
+Spleen Spleen
+Pancreas Pancreas
+UB UB-wall UB-con
+Thyroid Thyroid Thyroid1 Thyroid2
+Breast Breast
+Genital Ovaries Testes Prostate Uterus
+Lymph LN-ET LN-Th LN-Sys
+Skin Skin
+Adipose Adipose
+Muscle Muscle
+Other ST0 ST1 ST2 ST3 Other0 Other1 Other2 Other1(Trans) Other2(Parenc) Other3(RE)

@@ -1,0 +1,457 @@
+ Sr-90 Ingestion                             6.596156E-05    0.0
+ Age:3month
+   1 input             inp      0.0        0     0      0.0        -
+   4 Stomach           acc     24.0        1     1    100.0        St_Cont
+   5 SI                acc     15.0        1     4    100.0        SI_Cont
+   6 ULI               acc      1.8        2     5     40.0        ULI_Cont
+                                               110      1.166433
+   7 LLI               acc      1.0        1     6    100.0        LLI_Cont
+   8 Faeces            exc      0.0        1     7    100.0        -
+ 110 Plasma            acc     15.003      8     5     60.0        Blood
+                                               111     86.674358
+                                               113    100.0
+                                               114     86.674358
+                                               116    100.0
+                                               117    100.0
+                                               118    100.0
+                                               119    100.0
+ 111 C-Bone-S          acc      0.6934     2   110     59.988002   C_Bone-S
+                                               112     50.0
+ 112 Exch-C-Bone-V     acc      0.0086     1   111     13.325642   C_Bone-V
+ 113 Noch-C-Bone-V     acc      0.00822    1   112     50.0        C_Bone-V
+ 114 T-Bone-S          acc      0.6934     2   110     14.997001   T_Bone-S
+                                               115     50.0
+ 115 Exch-T-Bone-V     acc      0.0086     1   114     13.325642   T_Bone-V
+ 116 Noch-T-Bone-V     acc      0.00822    1   115     50.0        T_Bone-V
+ 117 ST0               acc      0.833      1   110     16.663334   Other
+ 118 ST1               acc      0.116      1   110      3.332667   Other
+ 119 ST2               acc      0.00038    1   110      0.006665   Other
+ 120 UB-con            acc     40.0        1   110      3.845897   UB_Cont
+ 121 Urine             exc      0.0        1   120    100.0        -
+cont
+ Y-90 Ingestion                              2.595247E-01    1.0
+ 131 input             inp      0.0        0     0      0.0        -
+ 134 Stomach           acc     24.0        1     4     -1.0        St_Cont
+ 135 SI                acc     15.0        2   134    100.0        SI_Cont
+                                                 5     -1.0
+ 136 ULI               acc      1.8        3   135     40.0        ULI_Cont
+                                               240      1.166433
+                                                 6     -1.0
+ 137 LLI               acc      1.0        2   136    100.0        LLI_Cont
+                                                 7     -1.0
+ 138 Faeces            exc      0.0        2   137    100.0        -
+                                                 8     -1.0
+ 240 Plasma            acc     15.003      9   135     60.0        Blood
+                                               241     86.674358
+                                               243    100.0
+                                               244     86.674358
+                                               246    100.0
+                                               247    100.0
+                                               248    100.0
+                                               249    100.0
+                                               110     -1.0
+ 241 C-Bone-S          acc      0.6934     3   240     59.988002   C_Bone-S
+                                               242     50.0
+                                               111     -1.0
+ 242 Exch-C-Bone-V     acc      0.0086     2   241     13.325642   C_Bone-V
+                                               112     -1.0
+ 243 Noch-C-Bone-V     acc      0.00822    2   242     50.0        C_Bone-V
+                                               113     -1.0
+ 244 T-Bone-S          acc      0.6934     3   240     14.997001   T_Bone-S
+                                               245     50.0
+                                               114     -1.0
+ 245 Exch-T-Bone-V     acc      0.0086     2   244     13.325642   T_Bone-V
+                                               115     -1.0
+ 246 Noch-T-Bone-V     acc      0.00822    2   245     50.0        T_Bone-V
+                                               116     -1.0
+ 247 ST0               acc      0.833      2   240     16.663334   Other
+                                               117     -1.0
+ 248 ST1               acc      0.116      2   240      3.332667   Other
+                                               118     -1.0
+ 249 ST2               acc      0.00038    2   240      0.006665   Other
+                                               119     -1.0
+ 250 UB-con            acc     40.0        2   240      3.845897   UB_Cont
+                                               120     -1.0
+ 251 Urine             exc      0.0        2   250    100.0        -
+                                               121     -1.0
+next
+ Age:1year
+   1 input             inp      0.0        0     0      0.0        -
+   4 Stomach           acc     24.0        1     1    100.0        St_Cont
+   5 SI                acc     10.0        1     4    100.0        SI_Cont
+   6 ULI               acc      1.8        2     5     60.0        ULI_Cont
+                                               110      2.565435
+   7 LLI               acc      1.0        1     6    100.0        LLI_Cont
+   8 Faeces            exc      0.0        1     7    100.0        -
+ 110 Plasma            acc     15.0072     8     5     40.0        Blood
+                                               111     86.674358
+                                               113    100.0
+                                               114     86.674358
+                                               116    100.0
+                                               117    100.0
+                                               118    100.0
+                                               119    100.0
+ 111 C-Bone-S          acc      0.6934     2   110     35.982728   C_Bone-S
+                                               112     50.0
+ 112 Exch-C-Bone-V     acc      0.0086     1   111     13.325642   C_Bone-V
+ 113 Noch-C-Bone-V     acc      0.00288    1   112     50.0        C_Bone-V
+ 114 T-Bone-S          acc      0.6934     2   110      8.995682   T_Bone-S
+                                               115     50.0
+ 115 Exch-T-Bone-V     acc      0.0086     1   114     13.325642   T_Bone-V
+ 116 Noch-T-Bone-V     acc      0.00288    1   115     50.0        T_Bone-V
+ 117 ST0               acc      1.83       1   110     36.649075   Other
+ 118 ST1               acc      0.116      1   110      7.329815   Other
+ 119 ST2               acc      0.00038    1   110      0.01466    Other
+ 120 UB-con            acc     32.0        1   110      8.462605   UB_Cont
+ 121 Urine             exc      0.0        1   120    100.0        -
+cont
+ Y-90 Ingestion                              2.595247E-01    1.0
+ 131 input             inp      0.0        0     0      0.0        -
+ 134 Stomach           acc     24.0        1     4     -1.0        St_Cont
+ 135 SI                acc     10.0        2   134    100.0        SI_Cont
+                                                 5     -1.0
+ 136 ULI               acc      1.8        3   135     60.0        ULI_Cont
+                                               240      2.565435
+                                                 6     -1.0
+ 137 LLI               acc      1.0        2   136    100.0        LLI_Cont
+                                                 7     -1.0
+ 138 Faeces            exc      0.0        2   137    100.0        -
+                                                 8     -1.0
+ 240 Plasma            acc     15.0072     9   135     40.0        Blood
+                                               241     86.674358
+                                               243    100.0
+                                               244     86.674358
+                                               246    100.0
+                                               247    100.0
+                                               248    100.0
+                                               249    100.0
+                                               110     -1.0
+ 241 C-Bone-S          acc      0.6934     3   240     35.982728   C_Bone-S
+                                               242     50.0
+                                               111     -1.0
+ 242 Exch-C-Bone-V     acc      0.0086     2   241     13.325642   C_Bone-V
+                                               112     -1.0
+ 243 Noch-C-Bone-V     acc      0.00288    2   242     50.0        C_Bone-V
+                                               113     -1.0
+ 244 T-Bone-S          acc      0.6934     3   240      8.995682   T_Bone-S
+                                               245     50.0
+                                               114     -1.0
+ 245 Exch-T-Bone-V     acc      0.0086     2   244     13.325642   T_Bone-V
+                                               115     -1.0
+ 246 Noch-T-Bone-V     acc      0.00288    2   245     50.0        T_Bone-V
+                                               116     -1.0
+ 247 ST0               acc      1.83       2   240     36.649075   Other
+                                               117     -1.0
+ 248 ST1               acc      0.116      2   240      7.329815   Other
+                                               118     -1.0
+ 249 ST2               acc      0.00038    2   240      0.01466    Other
+                                               119     -1.0
+ 250 UB-con            acc     32.0        2   240      8.462605   UB_Cont
+                                               120     -1.0
+ 251 Urine             exc      0.0        2   250    100.0        -
+                                               121     -1.0
+next
+ Age:5year
+   1 input             inp      0.0        0     0      0.0        -
+   4 Stomach           acc     24.0        1     1    100.0        St_Cont
+   5 SI                acc     10.0        1     4    100.0        SI_Cont
+   6 ULI               acc      1.8        2     5     60.0        ULI_Cont
+                                               110      2.799552
+   7 LLI               acc      1.0        1     6    100.0        LLI_Cont
+   8 Faeces            exc      0.0        1     7    100.0        -
+ 110 Plasma            acc     15.0024     8     5     40.0        Blood
+                                               111     86.674358
+                                               113    100.0
+                                               114     86.674358
+                                               116    100.0
+                                               117    100.0
+                                               118    100.0
+                                               119    100.0
+ 111 C-Bone-S          acc      0.6934     2   110     31.128353   C_Bone-S
+                                               112     50.0
+ 112 Exch-C-Bone-V     acc      0.0086     1   111     13.325642   C_Bone-V
+ 113 Noch-C-Bone-V     acc      0.00153    1   112     50.0        C_Bone-V
+ 114 T-Bone-S          acc      0.6934     2   110      8.865248   T_Bone-S
+                                               115     50.0
+ 115 Exch-T-Bone-V     acc      0.0086     1   114     13.325642   T_Bone-V
+ 116 Noch-T-Bone-V     acc      0.00181    1   115     50.0        T_Bone-V
+ 117 ST0               acc      2.0        1   110     39.993601   Other
+ 118 ST1               acc      0.116      1   110      7.99872    Other
+ 119 ST2               acc      0.00038    1   110      0.015997   Other
+ 120 UB-con            acc     12.0        1   110      9.198528   UB_Cont
+ 121 Urine             exc      0.0        1   120    100.0        -
+cont
+ Y-90 Ingestion                              2.595247E-01    1.0
+ 131 input             inp      0.0        0     0      0.0        -
+ 134 Stomach           acc     24.0        1     4     -1.0        St_Cont
+ 135 SI                acc     10.0        2   134    100.0        SI_Cont
+                                                 5     -1.0
+ 136 ULI               acc      1.8        3   135     60.0        ULI_Cont
+                                               240      2.799552
+                                                 6     -1.0
+ 137 LLI               acc      1.0        2   136    100.0        LLI_Cont
+                                                 7     -1.0
+ 138 Faeces            exc      0.0        2   137    100.0        -
+                                                 8     -1.0
+ 240 Plasma            acc     15.0024     9   135     40.0        Blood
+                                               241     86.674358
+                                               243    100.0
+                                               244     86.674358
+                                               246    100.0
+                                               247    100.0
+                                               248    100.0
+                                               249    100.0
+                                               110     -1.0
+ 241 C-Bone-S          acc      0.6934     3   240     31.128353   C_Bone-S
+                                               242     50.0
+                                               111     -1.0
+ 242 Exch-C-Bone-V     acc      0.0086     2   241     13.325642   C_Bone-V
+                                               112     -1.0
+ 243 Noch-C-Bone-V     acc      0.00153    2   242     50.0        C_Bone-V
+                                               113     -1.0
+ 244 T-Bone-S          acc      0.6934     3   240      8.865248   T_Bone-S
+                                               245     50.0
+                                               114     -1.0
+ 245 Exch-T-Bone-V     acc      0.0086     2   244     13.325642   T_Bone-V
+                                               115     -1.0
+ 246 Noch-T-Bone-V     acc      0.00181    2   245     50.0        T_Bone-V
+                                               116     -1.0
+ 247 ST0               acc      2.0        2   240     39.993601   Other
+                                               117     -1.0
+ 248 ST1               acc      0.116      2   240      7.99872    Other
+                                               118     -1.0
+ 249 ST2               acc      0.00038    2   240      0.015997   Other
+                                               119     -1.0
+ 250 UB-con            acc     12.0        2   240      9.198528   UB_Cont
+                                               120     -1.0
+ 251 Urine             exc      0.0        2   250    100.0        -
+                                               121     -1.0
+next
+ Age:10year
+   1 input             inp      0.0        0     0      0.0        -
+   4 Stomach           acc     24.0        1     1    100.0        St_Cont
+   5 SI                acc     10.0        1     4    100.0        SI_Cont
+   6 ULI               acc      1.8        2     5     60.0        ULI_Cont
+                                               110      2.051993
+   7 LLI               acc      1.0        1     6    100.0        LLI_Cont
+   8 Faeces            exc      0.0        1     7    100.0        -
+ 110 Plasma            acc     15.0098     8     5     40.0        Blood
+                                               111     86.674358
+                                               113    100.0
+                                               114     86.674358
+                                               116    100.0
+                                               117    100.0
+                                               118    100.0
+                                               119    100.0
+ 111 C-Bone-S          acc      0.6934     2   110     41.839332   C_Bone-S
+                                               112     50.0
+ 112 Exch-C-Bone-V     acc      0.0086     1   111     13.325642   C_Bone-V
+ 113 Noch-C-Bone-V     acc      0.000904   1   112     50.0        C_Bone-V
+ 114 T-Bone-S          acc      0.6934     2   110     14.124106   T_Bone-S
+                                               115     50.0
+ 115 Exch-T-Bone-V     acc      0.0086     1   114     13.325642   T_Bone-V
+ 116 Noch-T-Bone-V     acc      0.00132    1   115     50.0        T_Bone-V
+ 117 ST0               acc      1.47       1   110     29.314181   Other
+ 118 ST1               acc      0.116      1   110      5.862836   Other
+ 119 ST2               acc      0.00038    1   110      0.011992   Other
+ 120 UB-con            acc     12.0        1   110      6.79556    UB_Cont
+ 121 Urine             exc      0.0        1   120    100.0        -
+cont
+ Y-90 Ingestion                              2.595247E-01    1.0
+ 131 input             inp      0.0        0     0      0.0        -
+ 134 Stomach           acc     24.0        1     4     -1.0        St_Cont
+ 135 SI                acc     10.0        2   134    100.0        SI_Cont
+                                                 5     -1.0
+ 136 ULI               acc      1.8        3   135     60.0        ULI_Cont
+                                               240      2.051993
+                                                 6     -1.0
+ 137 LLI               acc      1.0        2   136    100.0        LLI_Cont
+                                                 7     -1.0
+ 138 Faeces            exc      0.0        2   137    100.0        -
+                                                 8     -1.0
+ 240 Plasma            acc     15.0098     9   135     40.0        Blood
+                                               241     86.674358
+                                               243    100.0
+                                               244     86.674358
+                                               246    100.0
+                                               247    100.0
+                                               248    100.0
+                                               249    100.0
+                                               110     -1.0
+ 241 C-Bone-S          acc      0.6934     3   240     41.839332   C_Bone-S
+                                               242     50.0
+                                               111     -1.0
+ 242 Exch-C-Bone-V     acc      0.0086     2   241     13.325642   C_Bone-V
+                                               112     -1.0
+ 243 Noch-C-Bone-V     acc      0.000904   2   242     50.0        C_Bone-V
+                                               113     -1.0
+ 244 T-Bone-S          acc      0.6934     3   240     14.124106   T_Bone-S
+                                               245     50.0
+                                               114     -1.0
+ 245 Exch-T-Bone-V     acc      0.0086     2   244     13.325642   T_Bone-V
+                                               115     -1.0
+ 246 Noch-T-Bone-V     acc      0.00132    2   245     50.0        T_Bone-V
+                                               116     -1.0
+ 247 ST0               acc      1.47       2   240     29.314181   Other
+                                               117     -1.0
+ 248 ST1               acc      0.116      2   240      5.862836   Other
+                                               118     -1.0
+ 249 ST2               acc      0.00038    2   240      0.011992   Other
+                                               119     -1.0
+ 250 UB-con            acc     12.0        2   240      6.79556    UB_Cont
+                                               120     -1.0
+ 251 Urine             exc      0.0        2   250    100.0        -
+                                               121     -1.0
+next
+ Age:15year
+   1 input             inp      0.0        0     0      0.0        -
+   4 Stomach           acc     24.0        1     1    100.0        St_Cont
+   5 SI                acc     10.0        1     4    100.0        SI_Cont
+   6 ULI               acc      1.8        2     5     60.0        ULI_Cont
+                                               110      1.213091
+   7 LLI               acc      1.0        1     6    100.0        LLI_Cont
+   8 Faeces            exc      0.0        1     7    100.0        -
+ 110 Plasma            acc     15.003      8     5     40.0        Blood
+                                               111     86.674358
+                                               113    100.0
+                                               114     86.674358
+                                               116    100.0
+                                               117    100.0
+                                               118    100.0
+                                               119    100.0
+ 111 C-Bone-S          acc      0.6934     2   110     53.322669   C_Bone-S
+                                               112     50.0
+ 112 Exch-C-Bone-V     acc      0.0086     1   111     13.325642   C_Bone-V
+ 113 Noch-C-Bone-V     acc      0.000521   1   112     50.0        C_Bone-V
+ 114 T-Bone-S          acc      0.6934     2   110     20.662534   T_Bone-S
+                                               115     50.0
+ 115 Exch-T-Bone-V     acc      0.0086     1   114     13.325642   T_Bone-V
+ 116 Noch-T-Bone-V     acc      0.000959   1   115     50.0        T_Bone-V
+ 117 ST0               acc      0.867      1   110     17.329867   Other
+ 118 ST1               acc      0.116      1   110      3.465973   Other
+ 119 ST2               acc      0.00038    1   110      0.006665   Other
+ 120 UB-con            acc     12.0        1   110      3.9992     UB_Cont
+ 121 Urine             exc      0.0        1   120    100.0        -
+cont
+ Y-90 Ingestion                              2.595247E-01    1.0
+ 131 input             inp      0.0        0     0      0.0        -
+ 134 Stomach           acc     24.0        1     4     -1.0        St_Cont
+ 135 SI                acc     10.0        2   134    100.0        SI_Cont
+                                                 5     -1.0
+ 136 ULI               acc      1.8        3   135     60.0        ULI_Cont
+                                               240      1.213091
+                                                 6     -1.0
+ 137 LLI               acc      1.0        2   136    100.0        LLI_Cont
+                                                 7     -1.0
+ 138 Faeces            exc      0.0        2   137    100.0        -
+                                                 8     -1.0
+ 240 Plasma            acc     15.003      9   135     40.0        Blood
+                                               241     86.674358
+                                               243    100.0
+                                               244     86.674358
+                                               246    100.0
+                                               247    100.0
+                                               248    100.0
+                                               249    100.0
+                                               110     -1.0
+ 241 C-Bone-S          acc      0.6934     3   240     53.322669   C_Bone-S
+                                               242     50.0
+                                               111     -1.0
+ 242 Exch-C-Bone-V     acc      0.0086     2   241     13.325642   C_Bone-V
+                                               112     -1.0
+ 243 Noch-C-Bone-V     acc      0.000521   2   242     50.0        C_Bone-V
+                                               113     -1.0
+ 244 T-Bone-S          acc      0.6934     3   240     20.662534   T_Bone-S
+                                               245     50.0
+                                               114     -1.0
+ 245 Exch-T-Bone-V     acc      0.0086     2   244     13.325642   T_Bone-V
+                                               115     -1.0
+ 246 Noch-T-Bone-V     acc      0.000959   2   245     50.0        T_Bone-V
+                                               116     -1.0
+ 247 ST0               acc      0.867      2   240     17.329867   Other
+                                               117     -1.0
+ 248 ST1               acc      0.116      2   240      3.465973   Other
+                                               118     -1.0
+ 249 ST2               acc      0.00038    2   240      0.006665   Other
+                                               119     -1.0
+ 250 UB-con            acc     12.0        2   240      3.9992     UB_Cont
+                                               120     -1.0
+ 251 Urine             exc      0.0        2   250    100.0        -
+                                               121     -1.0
+next
+ Age:adult
+   1 input             inp      0.0        0     0      0.0        -
+   4 Stomach           acc     24.0        1     1    100.0        St_Cont
+   5 SI                acc      8.5714286  1     4    100.0        SI_Cont
+   6 ULI               acc      1.8        2     5     70.0        ULI_Cont
+                                               110      3.498134
+   7 LLI               acc      1.0        1     6    100.0        LLI_Cont
+   8 Faeces            exc      0.0        1     7    100.0        -
+ 110 Plasma            acc     15.008      8     5     30.0        Blood
+                                               111     83.285303
+                                               113    100.0
+                                               114     83.285303
+                                               116    100.0
+                                               117    100.0
+                                               118    100.0
+                                               119    100.0
+ 111 C-Bone-S          acc      0.694      2   110     11.127399   C_Bone-S
+                                               112     50.0
+ 112 Exch-C-Bone-V     acc      0.0086     1   111     16.714697   C_Bone-V
+ 113 Noch-C-Bone-V     acc      0.0000821  1   112     50.0        C_Bone-V
+ 114 T-Bone-S          acc      0.694      2   110     13.859275   T_Bone-S
+                                               115     50.0
+ 115 Exch-T-Bone-V     acc      0.0086     1   114     16.714697   T_Bone-V
+ 116 Noch-T-Bone-V     acc      0.000493   1   115     50.0        T_Bone-V
+ 117 ST0               acc      2.5        1   110     49.973348   Other
+ 118 ST1               acc      0.116      1   110      9.99467    Other
+ 119 ST2               acc      0.00038    1   110      0.019989   Other
+ 120 UB-con            acc     12.0        1   110     11.527186   UB_Cont
+ 121 Urine             exc      0.0        1   120    100.0        -
+cont
+ Y-90 Ingestion                              2.595247E-01    1.0
+ 131 input             inp      0.0        0     0      0.0        -
+ 134 Stomach           acc     24.0        1     4     -1.0        St_Cont
+ 135 SI                acc      8.5714286  2   134    100.0        SI_Cont
+                                                 5     -1.0
+ 136 ULI               acc      1.8        3   135     70.0        ULI_Cont
+                                               240      3.4981341
+                                                 6     -1.0
+ 137 LLI               acc      1.0        2   136    100.0        LLI_Cont
+                                                 7     -1.0
+ 138 Faeces            exc      0.0        2   137    100.0        -
+                                                 8     -1.0
+ 240 Plasma            acc     15.008      9   135     30.0        Blood
+                                               241     83.285303
+                                               243    100.0
+                                               244     83.285303
+                                               246    100.0
+                                               247    100.0
+                                               248    100.0
+                                               249    100.0
+                                               110     -1.0
+ 241 C-Bone-S          acc      0.694      3   240     11.127399   C_Bone-S
+                                               242     50.0
+                                               111     -1.0
+ 242 Exch-C-Bone-V     acc      0.0086     2   241     16.714697   C_Bone-V
+                                               112     -1.0
+ 243 Noch-C-Bone-V     acc      0.0000821  2   242     50.0        C_Bone-V
+                                               113     -1.0
+ 244 T-Bone-S          acc      0.694      3   240     13.859275   T_Bone-S
+                                               245     50.0
+                                               114     -1.0
+ 245 Exch-T-Bone-V     acc      0.0086     2   244     16.714697   T_Bone-V
+                                               115     -1.0
+ 246 Noch-T-Bone-V     acc      0.000493   2   245     50.0        T_Bone-V
+                                               116     -1.0
+ 247 ST0               acc      2.5        2   240     49.973348   Other
+                                               117     -1.0
+ 248 ST1               acc      0.116      2   240      9.99467    Other
+                                               118     -1.0
+ 249 ST2               acc      0.00038    2   240      0.019989   Other
+                                               119     -1.0
+ 250 UB-con            acc     12.0        2   240     11.527186   UB_Cont
+                                               120     -1.0
+ 251 Urine             exc      0.0        2   250    100.0        -
+                                               121     -1.0
+end
